@@ -1,0 +1,4 @@
+app:
+  baseUri: https://api.openweathermap.org/data/2.5
+  basePath: /weather
+  appId: afd4e874d434b2f0a3a0c485416003d8
